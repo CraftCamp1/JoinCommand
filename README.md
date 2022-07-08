@@ -1,6 +1,7 @@
 # JoinCommand
 ![License](https://img.shields.io/github/license/CraftCamp1/JoinCommand)
-Run a command when someone joins the server
+
+Runs a command when someone joins the server
 
 # Features
 - Executes a command when a player joins the server
