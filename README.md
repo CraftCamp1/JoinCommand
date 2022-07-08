@@ -9,6 +9,7 @@ Runs a command when someone joins the server
 - Lightweight Plugin
 
 # Config
+```yml
 /*Executes Command on Console */
 "Server Command"=> "say hello {player}",
 /*Executes Command as Player*/
@@ -16,6 +17,7 @@ Runs a command when someone joins the server
 /* Enables/Disables Commands */
 "Server Command Enabled"=>"true",
 "Player Command Enabled"=>"true"
+```
 
 # How to Install
 1. Download the plugin from [here](https://github.com/CraftCamp1/JoinCommand/releases/tag/v1.0.0)
