@@ -1,6 +1,6 @@
 <?php
 
-namespace JoinCommand;
+namespace CraftCamp\JoinCommand;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
