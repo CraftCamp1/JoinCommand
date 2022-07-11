@@ -1,6 +1,6 @@
 # JoinCommand
 ![License](https://img.shields.io/github/license/CraftCamp1/JoinCommand)
-[[![](https://poggit.pmmp.io/shield.state/RandomTP)](https://poggit.pmmp.io/p/RandomTP)
+[![](https://poggit.pmmp.io/shield.state/RandomTP)](https://poggit.pmmp.io/p/RandomTP)
 [![](https://poggit.pmmp.io/shield.state/JoinCommand)](https://poggit.pmmp.io/p/JoinCommand)
 [![](https://poggit.pmmp.io/shield.api/JoinCommand)](https://poggit.pmmp.io/p/JoinCommand)
 Runs a command when someone joins the server
